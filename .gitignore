@@ -1,1 +1,7 @@
 .DS_Store
+/1
+/2
+/audio_files
+/build
+/dist
+*.spec
